@@ -57,7 +57,9 @@
 
 <hr></hr>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YasmineYahyaoui&style=flat&color=orange)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YasmineYahyaoui&style=flat&color=orange" alt="Profile Views"/>
+</div>
 
 </div>
 
