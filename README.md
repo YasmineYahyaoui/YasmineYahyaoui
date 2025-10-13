@@ -72,8 +72,6 @@
 
 ---
 
-<div align="center">
-
 ![Profile Views](https://komarev.com/ghpvc/?username=YasmineYahyaoui&style=flat&color=orange)
 
 </div>
