@@ -46,8 +46,8 @@
 ## 📫 Connect with Me
 
 - Gmail: yasmineyahyaoui5@gmail.com
-- LinkedIn: [linkedin.com/in/yasmineyahyaouii]
-- GitHub: [github.com/YasmineYahyaoui] 
+- LinkedIn: www.linkedin.com/in/yasmineyahyaouii
+- GitHub: github.com/YasmineYahyaoui
 
 ---
 
