@@ -47,8 +47,7 @@
 
 - Gmail: yasmineyahyaoui5@gmail.com
 - LinkedIn: www.linkedin.com/in/yasmineyahyaouii
-- GitHub: github.com/YasmineYahyaoui
-
+  
 ---
 
 ## ⚡ Fun Facts
