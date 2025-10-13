@@ -59,7 +59,7 @@
 
 **Code Cycle**<br><br>
 
-<div style="display: flex; justify-content: center; gap: 20; text-align: center; flex-wrap: nowrap;">
+<div>
   <div>
     <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="80px"/>
     <br>Unexpected bug!
