@@ -52,7 +52,7 @@
 
 ## ⚡ Fun Facts
 
-- I’m currently exploring Python  
+- I’m currently learning Python  
 - I enjoy exploring technology and diving into the world of programming
 
 <hr></hr>
