@@ -18,7 +18,10 @@
 
 ## 🛠 Tools & Technologies I Use
 
+<img src="https://github.com/user-attachments/assets/e78d554b-c813-4c53-8946-7feb6de340e1" alt="robot" width="280" align="right"/>
+
 ### Programming Languages
+
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat&logo=python&logoColor=darkgreen)
@@ -45,7 +48,7 @@
 
 ## 📫 Connect with Me
 
-- Gmail: (mailto:yasmineyahyaoui5@gmail.com)
+- Gmail: [Gmail](mailto:yasmineyahyaoui5@gmail.com)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/yasmineyahyaouii)
   
 ---
@@ -61,5 +64,5 @@
   <img src="https://komarev.com/ghpvc/?username=YasmineYahyaoui&style=flat&color=orange" alt="Profile Views"/>
 </div>
 
-</div>
+
 
