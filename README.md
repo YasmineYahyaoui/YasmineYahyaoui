@@ -1,7 +1,4 @@
-<div align="center" width="50">
-
-# 👋 Hello, I’m Yasmine Yahyaoui
-
+<div align="center" >
 
 <img src="https://github.com/user-attachments/assets/33bb0469-507a-4942-aae3-90f48c486d08" alt="Workspace" width="80%"/>
 
