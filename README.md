@@ -1,6 +1,6 @@
 <div align="center" >
 
-<img src="https://github.com/user-attachments/assets/33bb0469-507a-4942-aae3-90f48c486d08" alt="Workspace" width="80%"/>
+<img src="https://github.com/user-attachments/assets/da1366f2-0b24-4336-a961-c0bcda97c155" alt="Workspace" width="80%"/>
 
 </div>
 
@@ -16,7 +16,7 @@
 
 ## 🛠 Tools & Technologies I Use
 
-<img src="https://github.com/user-attachments/assets/e78d554b-c813-4c53-8946-7feb6de340e1" alt="robot" width="28%" align="right"/>
+<img src="https://github.com/user-attachments/assets/e78d554b-c813-4c53-8946-7feb6de340e1" alt="robot" width="30%" align="right"/>
 
 ### Programming Languages
 
