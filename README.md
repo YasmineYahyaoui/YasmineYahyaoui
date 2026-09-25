@@ -9,7 +9,7 @@
 
 ## 💻 About Me
 
-- First Year AI Engineering Student 
+- First-Year AI Engineering Student 
 - Passionate about Artificial Intelligence, Machine Learning and Programming
 - Focused on continuously learning and strengthening my technical skills
 
@@ -50,6 +50,12 @@
 
 ---
 
+## 🌐 Memberships
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/21/IEEE_logo.svg" width="35" align="center"/> **IEEE Computational Intelligence Society (IEEE CIS)** — Member
+
+---
+
 ## 📫 Connect with Me
 
 - Gmail: [Gmail](mailto:yasmineyahyaoui5@gmail.com)
@@ -59,8 +65,8 @@
 
 ## ⚡ Fun Facts
 
-- I’m currently learning Python  
-- I enjoy exploring technology and diving into the world of programming
+- Currently learning Python for Machine Learning and Data Engineering
+- I enjoy exploring new technologies and diving deeper into Artificial Intelligence and programming
 
 <hr></hr>
 
