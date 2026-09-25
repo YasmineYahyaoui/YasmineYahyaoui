@@ -9,9 +9,9 @@
 
 ## 💻 About Me
 
-- 3rd-year Business Intelligence student  
-- Passionate about programming, web & mobile development, and exploring new technologies  
-- Focused on learning and improving development skills 
+- First Year AI Engineering Student 
+- Passionate about Artificial Intelligence, Machine Learning and Programming
+- Focused on continuously learning and strengthening my technical skills
 
 ---
 
