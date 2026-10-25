@@ -59,7 +59,7 @@
 ## 📫 Connect with Me
 
 - Gmail: [Gmail](mailto:yasmineyahyaoui5@gmail.com)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yasmineyahyaouii)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/yasmineyahyaoui)
   
 ---
 
